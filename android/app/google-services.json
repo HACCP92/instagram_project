@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351406224515",
+    "project_id": "my-instar-test",
+    "storage_bucket": "my-instar-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351406224515:android:79e18310a902cbddb017b6",
+        "android_client_info": {
+          "package_name": "com.example.instagram_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351406224515-h44fss7546tt3qq9jlr53u783fj1r73n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq7OTsdCs9OiP56YKX0L_gBhr6qeGMY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351406224515-h44fss7546tt3qq9jlr53u783fj1r73n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
